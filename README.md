@@ -1,66 +1,150 @@
-<div align="center">
+<h1 align="center">
+  <span style="font-size: 3rem;">🤖 ROBOTICS</span>
+</h1>
 
-# 🤖 ROBOTICS & EMBEDDED SYSTEMS ENGINEER
-### 🧠 BS Artificial Intelligence Student | 🌐 Web & IoT Developer
+<h3 align="center">Muhammad Saad Atique</h3>
 
 <p align="center">
-  <a href="https://github.com/saadrajpoot3355"><img src="https://img.shields.io/badge/GitHub-saadrajpoot3355-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-saad-atique-104636232"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Saad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saadrajpoot3355@gmail.com"><img src="https://img.shields.io/badge/Email-saadrajpoot3355@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+923226954367"><img src="https://img.shields.io/badge/Phone-+92_322_6954367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  Okara, Punjab, Pakistan | +92 322 6954367 / +92 312 6101682
+</p>
+
+<p align="center">
+  <a href="mailto:saadrajpoot3355@gmail.com">saadrajpoot3355@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/muhammad-saad-atique-104636232" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/saadrajpoot3355" target="_blank">GitHub</a>
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Autonomous+Robots+%26+Smart+IoT+Systems;Crafting+Modern+Responsive+Websites;Exploring+Artificial+Intelligence+%26+Automation" alt="Typing Animation" />
+## Summary
 
-</div>
-
-<br>
-
-## 👤 Executive Summary
-
-Highly dedicated **Robotics Intermediate** and **Embedded Firmware Developer** with practical experience designing smart automation solutions using **Arduino** and **ESP32** platforms[cite: 1, 2]. Proven track record in developing autonomous robotics (Sumo Wrestling Cars, Robo Soccer, Line Followers) and interactive IoT solutions[cite: 1, 2]. Currently pursuing **BS Artificial Intelligence** at the **University of Okara**, while delivering high-performance responsive web solutions[cite: 1, 2].
+Robotics Intermediate and Web Developer with hands-on experience in designing smart solutions using Arduino and ESP32 technologies. Developed user-friendly, responsive websites while optimizing performance and SEO, ensuring strong online presence for clients. Committed to continuous learning and applying new technologies to address real-world challenges.
 
 ---
 
-## 🛠️ Technical Capabilities & Stack
+## Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Hardware & Embedded Systems</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>Microcontrollers:</b> ESP32, Arduino Uno/Nano, NodeMCU</li>
-        <li><b>Protocols:</b> I2C, SPI, UART, Wi-Fi, Bluetooth</li>
-        <li><b>Simulation & Cloud:</b> Wokwi, Blynk IoT Server</li>
-        <li><b>Hardware Integration:</b> Ultrasonic, Motor Drivers, Sensors</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Software & Web Development</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MS_Office-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>CMS & Builders:</b> WordPress, Elementor Pro</li>
-        <li><b>Web Optimizations:</b> Performance Tuning & On-Page SEO</li>
-        <li><b>Programming Languages:</b> C++, Python, Dart</li>
-        <li><b>Tools:</b> Microsoft Office Specialist (Word, Excel, PowerPoint)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Embedded Systems
+- Microcontroller Programming
+- Wi-Fi Modules
+- C++
+- IoT Protocols
+- SPI
+- UART
+- I2C
+- Simulation Tools
+- Wokwi
+- Web Development
+- Microsoft Word
+- Excel
+- PowerPoint
+- Effective Communication
+- Robotics Engineering
 
 ---
 
-## 💼 Work Experience
+## Experience
+
+### Web Developer  
+**Saad Tech**  
+*12/2023 - Current*
+
+- Specialized in creating responsive, attractive, user-friendly websites that enhance user engagement.
+- Designed modern sites using themes, plugins, and builders like Elementor, streamlining the development process.
+- Optimized SEO and performance to strengthen clients' online presence and improve visibility.
+
+### Embedded Firmware Developer  
+**PluttoX Software House**  
+*07/2024 – 08/2025*
+
+- Gained one year of experience at PluttoX Software House, where I built multiple IoT and embedded system projects.
+- Developed projects using Arduino, C, and C++ including Sumo Wrestling car, Robo Soccer, line following robot, and much more, utilizing platforms like Wokwi and Blynk to meet project goals.
+- Developed embedded firmware for IoT devices in a collaborative team environment.
+
+### Robotics Intermediate  
+**Punjab Group Of Colleges Okara – Okara, Pakistan**  
+*09/2023 – 08/2025*
+
+- Designed and developed robotics projects using Arduino and ESP32 platforms.
+- Implemented sensor-based automation systems and basic control mechanisms.
+- Gained practical experience in electronics, programming, and system integration.
+
+---
+
+## Qualifications
+
+### BS Artificial Intelligence  
+**University of Okara - Okara**  
+*2025 - Present*
+
+- GPA: 3.5/4.00
+- Currently enrolled in 2nd semester
+
+### Intermediate ICS  
+**BISE Sahiwal – Okara**  
+*2022 - 2024*
+
+- Grade: C
+- Marks: 660/1200
+
+### Matriculation Science  
+**BISE Sahiwal – Okara**  
+*2020 - 2022*
+
+- Grade: B
+- Marks: 765/1100
+
+---
+
+## Certifications
+
+1. **Robotics Exhibition**
+   - Certificate of Participation Robotics Exhibition 2024 & 2025 from Punjab College Okara.
+
+2. **MS Office**
+   - Certificate of MS Word Specialist by Microsoft.
+
+3. **Tech Fiesta 2026 – Sumo Wrestling (Runner-Up)**
+   - Awarded Runner-Up in the Sumo Wrestling Robotics Competition at Tech Fiesta 2026, UMT Lahore.
+
+4. **Tech Fiesta 2026 – Robo Soccer (Participation)**
+   - Participated in the Robo Soccer Competition at Tech Fiesta 2026, UMT Lahore.
+
+---
+
+## Academic Activities
+
+- Participated in Lahore Science Mela, showcasing robotics and IoT-based projects, October 25–26, 2025.
+- Excited to be part of ROBOCOM '25, where I presented my robotics project and connected with fellow innovators, December 23–24, 2025.
+
+---
+
+## Languages
+
+- Urdu
+- English
+- Punjabi
+
+---
+
+## Awards & Honors
+
+- 1st Position in Squash from BISE Sahiwal (Inter Collegiate Championship 2023–24)
+- Brown Medalist in Art by CASTO International Events 2023
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadrajpoot3355&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrajpoot3355&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## Quote
+
+<p align="center">
+  <i>“Committed to continuous learning and applying new technologies to solve real-world problems.”</i>
+</p>

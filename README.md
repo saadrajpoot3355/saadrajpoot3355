@@ -59,34 +59,46 @@ Highly dedicated **Robotics Intermediate** and **Embedded Firmware Developer** w
       <p align="center">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
         <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       </p>
 
       <ul>
-        <li><b>Microcontrollers:</b> Arduino Uno/Nano, ESP32, NodeMCU</li>
-        <li><b>Communication:</b> I2C, SPI, UART, Wi‑Fi based IoT connectivity</li>
-        <li><b>Simulation & Cloud:</b> Wokwi-based simulations, Blynk IoT dashboards</li>
-        <li><b>Hardware Integration:</b> Ultrasonic sensors, motor drivers, IR sensors, basic control systems</li>
+        <li><b>Microcontrollers:</b> Arduino Uno/Nano, ESP32, ESP8266, NodeMCU</li>
+        <li><b>Communication:</b> I2C, SPI, UART, Wi-Fi, IoT connectivity</li>
+        <li><b>Simulation & IoT:</b> Wokwi, Blynk IoT</li>
+        <li><b>Hardware Integration:</b> Ultrasonic sensors, IR sensors, motor drivers, DC motors, basic control systems</li>
+        <li><b>Development:</b> Embedded C/C++, Arduino IDE, hardware debugging & prototyping</li>
       </ul>
 
     </td>
+
     <td width="50%" valign="top">
 
       <h3 align="center">💻 Software & Web Development</h3>
 
       <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
         <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MS_Office-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
+      </p>
+
+      <p align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </p>
 
       <ul>
-        <li><b>CMS & Builders:</b> WordPress, Elementor (themes, plugins, custom sections)</li>
-        <li><b>Web Optimizations:</b> Performance tuning, responsive layouts, on‑page SEO</li>
-        <li><b>Programming:</b> C++, C, Python (fundamentals), IoT‑focused coding</li>
-        <li><b>Office Tools:</b> Microsoft Word Specialist, Excel, PowerPoint</li>
+        <li><b>Programming:</b> C, C++, Python</li>
+        <li><b>Web Development:</b> HTML, CSS, JavaScript, WordPress, Elementor</li>
+        <li><b>Web Optimization:</b> Responsive design, performance optimization, on-page SEO</li>
+        <li><b>Version Control:</b> Git, GitHub</li>
+        <li><b>CMS & Builders:</b> WordPress, Elementor, themes, plugins, custom sections</li>
+        <li><b>Productivity:</b> Microsoft Word, Excel, PowerPoint</li>
       </ul>
 
     </td>

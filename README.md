@@ -44,7 +44,7 @@
 
 ## 👤 Executive Summary
 
-Highly dedicated **Robotics Intermediate** and **Embedded Firmware Developer** with hands-on experience designing smart automation solutions using **Arduino** and **ESP32** platforms.[1] Worked on autonomous robotics such as **Sumo Wrestling Cars, Robo Soccer robots, and Line Following Robots**, integrating sensors, motor drivers, and IoT connectivity to build real-world smart systems.[1] Currently pursuing **BS Artificial Intelligence** at the **University of Okara**, alongside delivering **responsive, SEO-optimized web solutions** for clients.[1]
+Highly dedicated **Robotics Intermediate** and **Embedded Firmware Developer** with hands-on experience designing smart automation solutions using **Arduino** and **ESP32** platforms. Worked on autonomous robotics such as **Sumo Wrestling Cars, Robo Soccer robots, and Line Following Robots**, integrating sensors, motor drivers, and IoT connectivity to build real-world smart systems. Currently pursuing **BS Artificial Intelligence** at the **University of Okara**, alongside delivering **responsive, SEO-optimized web solutions** for clients.
 
 ---
 
